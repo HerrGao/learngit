@@ -3,5 +3,9 @@ Git is free software distributed under the GPL
 Git has a mutable index called staged
 Git is interesting
 I want to be rich
-Creating a new branch is quick & simple
+<<<<<<< HEAD
+Creating a new branch is quick and simple
+=======
+Creating a new branch is quick and simple
+>>>>>>> featurel
 
