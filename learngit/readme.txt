@@ -5,3 +5,4 @@ Git is interesting
 I want to be rich
 Creating a new branch is quick and simple
 English is important and interesting
+English is very important
